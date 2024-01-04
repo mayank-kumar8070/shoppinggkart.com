@@ -1,0 +1,208 @@
+shoppinggkart.com
+
+alt = shoppinggkart
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+
+
+Home
+About
+Products
+Shop
+Blog
+Contact
+
+
+<ion-icon name="search-outline" aria-hidden="true"></ion-icon>
+Search
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Login / Register
+
+<ion-icon name="heart-outline" aria-hidden="true"></ion-icon>
+Wishlist
+5
+
+<ion-icon name="bag-outline" aria-hidden="true"></ion-icon>
+Basket: ₹350.00
+4
+
+
+
+# main - front look
+
+
+
+Competently expedite alternative benefits whereas leading-edge catalysts for change. Globally leverage existing an expanded array of leadership.
+
+Shop Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+
+
+# COLLECTION
+
+Men Collections
+Explore All 
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Women Collections
+
+kids Collections
+
+
+
+# PRODUCTS
+
+Bestsellers Products
+
+All
+Shirts
+Jeans 
+Watches
+Earphones
+Apex
+
+alt = Shirts
+New
+
+<ion-icon name="cart-outline"></ion-icon>
+Add to Cart
+
+<ion-icon name="heart-outline"></ion-icon>
+Add to Whishlist
+
+
+Men / Women
+Shirts
+(₹399-2499)
+
+alt = Jeans
+Men / Women
+Jeans
+(₹399-24999)
+
+alt = tops  
+New
+Women
+tops
+(₹599-3999)
+
+
+alt = beauty Products
+-25% 
+Women
+beauty Products
+(₹399-2499)
+
+alt = Watches
+New
+Men / Women
+Watches
+(₹799-5499)
+
+alt = gym equipment
+Men / Women
+gym equipment
+(₹599-149999
+
+alt = earphones/earbuds
+Men / Women
+earphones/earbuds
+(₹699-24999)
+
+alt = shoes
+Men / Women
+shoes
+(₹699-24999)
+
+
+
+# CTA
+
+Adidas Shoes
+The Summer Sale Off 50%
+Shop Now
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Nike Shoes
+Makes Yourself Keep Sporty
+
+
+
+# SPECIAL
+
+New Trend Edition
+
+Explore All
+<ion-icon name="arrow-forward-outline" aria-hidden="true"></ion-icon>
+
+Nike Special
+
+
+
+# SERVICE
+
+alt = Service icon
+Free Shiping
+All orders over
+₹500
+
+Quick Payment
+100% secure payment
+
+Free Returns/Exchange
+Money back in 7-10 business days
+
+24/7 Support
+Get Quick Support
+
+
+
+# INSTA POST
+
+alt = Instagram post
+
+<ion-icon name="logo-instagram"></ion-icon>
+
+
+
+# FOOTER
+
+
+Contact Us
+
+<ion-icon name="location"></ion-icon>
+Ghaziabad,Uttar pradesh,INDIA
+
+
+<ion-icon name="call"></ion-icon>
++91 7289998070
+
+
+<ion-icon name="mail"></ion-icon>
+mayankj8070@gmail.com
+
+My Account
+
+<ion-icon name="chevron-forward-outline"></ion-icon>
+
+My Account
+View Cart
+Wishlist
+Compare
+New Products
+
+
+&copy; 2023 mynk8070. All Rights Reserved
+
+
+
+# GO TOP
+
+<ion-icon name="arrow-up-outline"></ion-icon>
